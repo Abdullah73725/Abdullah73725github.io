@@ -77,8 +77,8 @@
 
 .image-frame {
     width: 380px;
-    height: 440px;
-    background-image: url(../images/Abdullah\ photo.jpeg);
+    height: 380px;
+    background-image: url(../images/Abdullah\ photo.jpg);
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
